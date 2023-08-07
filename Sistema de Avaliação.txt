@@ -1,0 +1,12 @@
+Ap1:
+Bases numericas
+Raizes de Equações 
+Sistemas Lineares
+
+Ap2:
+Interpolação Polinomial
+Quadrados Mínimos
+
+Ap3 
+Integração Numérica
+Derivação Numérica
