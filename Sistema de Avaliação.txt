@@ -1,5 +1,5 @@
 Ap1:
-Bases numericas
+Bases numéricas 
 Raizes de Equações 
 Sistemas Lineares
 
