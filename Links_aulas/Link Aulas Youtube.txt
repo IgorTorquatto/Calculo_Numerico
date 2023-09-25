@@ -1,0 +1,21 @@
+Método da Bisseção
+https://www.youtube.com/watch?v=qGDL1mqzJqA&ab_channel=Prof.Dr.DiegoVeras
+
+Método da Bisseção Exercícios:
+
+https://www.youtube.com/watch?v=EpuOTWuuhCo&ab_channel=Prof.Dr.DiegoVeras
+
+Método da Falsa Posição:
+https://www.youtube.com/watch?v=4g7U27Zd8AY&ab_channel=Prof.Dr.DiegoVeras
+
+Eliminação de Gauss: Fundamentos e Exemplo:
+https://www.youtube.com/watch?v=UU5Ct9-oDrM&ab_channel=Prof.Dr.DiegoVeras
+
+Eliminação de Gauss: Usando a Calculadora Científica para as Frações:
+https://www.youtube.com/watch?v=xBsRvfDA97Y&list=PLu89WjF0IIMwFrwH5H9aQFBklDhhMtvVb&index=3&ab_channel=Prof.Dr.DiegoVeras
+
+Eliminação de Gauss: SPD, SPI e SI:
+https://www.youtube.com/watch?v=Ql6FPZWvuAE&list=PLu89WjF0IIMwFrwH5H9aQFBklDhhMtvVb&index=4&ab_channel=Prof.Dr.DiegoVeras
+
+Eliminação de Gauss: Exemplo com pivô Nulo (Pivoteamento):
+https://www.youtube.com/watch?v=an9A8skG2lg&list=PLu89WjF0IIMwFrwH5H9aQFBklDhhMtvVb&index=5&ab_channel=Prof.Dr.DiegoVeras
